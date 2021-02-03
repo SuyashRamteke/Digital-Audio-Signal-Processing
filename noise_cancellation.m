@@ -1,4 +1,4 @@
-//Caption: Speech Noise Cancellation using LMS Adaptive Filter
+Speech Noise Cancellation using LMS Adaptive Filter
 
 clc;
 //Reading a speech signal
